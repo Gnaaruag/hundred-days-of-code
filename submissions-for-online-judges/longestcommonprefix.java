@@ -1,4 +1,5 @@
 // https://leetcode.com/submissions/detail/807545218/
+// 24.09
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         Arrays.sort(strs);
