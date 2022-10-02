@@ -13,3 +13,15 @@ went over basic css, and started with jquery.
 learnt about responsive web design and flexbox
 
 started working on a frontend component which uses html + css + vanilla javascript; as proof of concept
+
+**Day 4** - Did problems involving array implementations
+
+Participated in Codechef's Starters 58 (28 Sept), got promoted to division 3
+
+**Day 5** - Did various problems on leetcode
+
+**Day 6** - learned the basics of ArrayLists, Stacks and HashSets.
+
+Did problems to implement these data structures
+
+**Day 7** - Participated in leetcode's biweekly contest.
